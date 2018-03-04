@@ -1,0 +1,9 @@
+c:\users\natan\documents\visual studio 2017\Projects\snake\snake\bin\Debug\netcoreapp1.1\snake.deps.json
+c:\users\natan\documents\visual studio 2017\Projects\snake\snake\bin\Debug\netcoreapp1.1\snake.runtimeconfig.json
+c:\users\natan\documents\visual studio 2017\Projects\snake\snake\bin\Debug\netcoreapp1.1\snake.runtimeconfig.dev.json
+c:\users\natan\documents\visual studio 2017\Projects\snake\snake\bin\Debug\netcoreapp1.1\snake.dll
+c:\users\natan\documents\visual studio 2017\Projects\snake\snake\bin\Debug\netcoreapp1.1\snake.pdb
+c:\users\natan\documents\visual studio 2017\Projects\snake\snake\obj\Debug\netcoreapp1.1\snake.csprojResolveAssemblyReference.cache
+c:\users\natan\documents\visual studio 2017\Projects\snake\snake\obj\Debug\netcoreapp1.1\snake.AssemblyInfo.cs
+c:\users\natan\documents\visual studio 2017\Projects\snake\snake\obj\Debug\netcoreapp1.1\snake.dll
+c:\users\natan\documents\visual studio 2017\Projects\snake\snake\obj\Debug\netcoreapp1.1\snake.pdb
